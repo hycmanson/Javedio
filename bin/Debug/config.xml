@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="gb2312"?>
+<appsettings>
+  <GongNeng>
+    <IsClickSmalPicShowBigPic>False</IsClickSmalPicShowBigPic>
+  </GongNeng>
+  <SaveSetup>
+    <DataBaseSavePath>C:\Users\chao\Desktop\CCAV\CCAV\bin\Debug\mdb</DataBaseSavePath>
+    <BigPicSavePath>C:\Users\chao\Desktop\CCAV\CCAV\bin\Debug\Pic\BigPic</BigPicSavePath>
+    <SmallPicSavePath>C:\Users\chao\Desktop\CCAV\CCAV\bin\Debug\Pic\SmallPic</SmallPicSavePath>
+    <ActressesPicSavePath>C:\Users\chao\Desktop\CCAV\CCAV\bin\Debug\Pic\Actresses</ActressesPicSavePath>
+    <ExtraPicSavePath>C:\Users\chao\Desktop\CCAV\CCAV\bin\Debug\Pic\Extra</ExtraPicSavePath>
+  </SaveSetup>
+  <Item>
+    <NewItem>           FC2 写真   </NewItem>
+  </Item>
+  <DataBase>
+    <Zhengpaixu>True</Zhengpaixu>
+    <Paixuleixing>3</Paixuleixing>
+  </DataBase>
+  <SoftView>
+    <ColorZhuti>默认</ColorZhuti>
+    <IsShoucangShow>False</IsShoucangShow>
+    <IsRiqiShow>True</IsRiqiShow>
+    <IsMingchengShow>True</IsMingchengShow>
+    <IsFanhaoShow>True</IsFanhaoShow>
+    <IsFirstStart>False</IsFirstStart>
+    <IsCloseNow>True</IsCloseNow>
+    <IsSmallPicAutoSize>False</IsSmallPicAutoSize>
+    <FlowlayoutPanel_PageNum>50</FlowlayoutPanel_PageNum>
+  </SoftView>
+  <ScanSetup>
+    <Scan_Shipinleixing>
+    </Scan_Shipinleixing>
+    <Scan_WenjianDaxiao>200-9999</Scan_WenjianDaxiao>
+    <BubingFanhao>BT,CCDV,CWDV,CWP,CWPBD,CWPD,CYC,DRC,DRG,DRGBD,DSAM,DSAMBD,DSAMD,HEY,HEYDOUGA,HEYZO,KP,KSC,LAF,LAFBD,LLDV,MCBD,MKBD,MKD,MXX,NIP,PT,RED,RHJ,S2M,S2MBD,SKY,SKYHD,SMD,SSDV,SSKP,AAAA</BubingFanhao>
+  </ScanSetup>
+  <AppInitial>
+    <Me_X>469</Me_X>
+    <Me_Y>199</Me_Y>
+    <Me_Height>727</Me_Height>
+    <Me_Width>1057</Me_Width>
+  </AppInitial>
+  <myWebSite>
+    <JavWebSite>www.javbus.com</JavWebSite>
+  </myWebSite>
+  <SmallPicForm>
+    <Fanhao>
+      <Font>Times New Roman</Font>
+      <Size>12</Size>
+      <ForeColor>255 255 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>True</Bold>
+      <Italic>True</Italic>
+    </Fanhao>
+    <Mingcheng>
+      <Font>微软雅黑</Font>
+      <Size>10</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Mingcheng>
+    <Riqi>
+      <Font>Times New Roman</Font>
+      <Size>12</Size>
+      <ForeColor>255 255 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Riqi>
+    <Qita>
+      <Font>微软雅黑</Font>
+      <Size>10</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Qita>
+  </SmallPicForm>
+  <BigPicForm>
+    <Fanhao>
+      <Font>Times New Roman</Font>
+      <Size>16</Size>
+      <ForeColor>255 255 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Fanhao>
+    <Mingcheng>
+      <Font>微软雅黑</Font>
+      <Size>16</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 240 240 240 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Mingcheng>
+    <Faxingriqi>
+      <Font>Times New Roman</Font>
+      <Size>16</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Faxingriqi>
+    <Changdu>
+      <Font>Times New Roman</Font>
+      <Size>16</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Changdu>
+    <Daoyan>
+      <Font>微软雅黑</Font>
+      <Size>12</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Daoyan>
+    <Zhizuoshang>
+      <Font>微软雅黑</Font>
+      <Size>12</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Zhizuoshang>
+    <Faxingshang>
+      <Font>微软雅黑</Font>
+      <Size>12</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Faxingshang>
+    <Leibie>
+      <Font>微软雅黑</Font>
+      <Size>12</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Leibie>
+    <Yanyuan>
+      <Font>微软雅黑</Font>
+      <Size>12</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Yanyuan>
+    <Biaoqian>
+      <Font>微软雅黑</Font>
+      <Size>12</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Biaoqian>
+    <Xilie>
+      <Font>微软雅黑</Font>
+      <Size>12</Size>
+      <ForeColor>255 0 0 0 </ForeColor>
+      <BackColor>255 255 255 255 </BackColor>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+    </Xilie>
+  </BigPicForm>
+</appsettings>
