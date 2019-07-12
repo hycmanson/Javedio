@@ -7,3 +7,4 @@
 * 日期：2019/6/25<br>
 * 版本：1.1.0<br>
 * 下载地址：https://github.com/hitchao/Javedio/blob/master/Javedio.rar <br>
+* 密码：hitchao
